@@ -1,0 +1,14 @@
+<map id="packet_io_stats.h" name="packet_io_stats.h">
+<area shape="rect" id="node1" title=" " alt="" coords="83,5,218,32"/>
+<area shape="rect" id="node2" href="$packet__io__stats_8h.html" title=" " alt="" coords="83,80,218,107"/>
+<area shape="rect" id="node3" href="$api_2spec_2packet__io_8h.html" title=" " alt="" coords="103,155,199,181"/>
+<area shape="rect" id="node4" href="$api_2packet__io_8h.html" title=" " alt="" coords="103,229,199,256"/>
+<area shape="rect" id="node5" href="$api_2spec_2classification_8h.html" title=" " alt="" coords="43,304,162,331"/>
+<area shape="rect" id="node7" href="$api_2spec_2ipsec_8h.html" title=" " alt="" coords="161,453,229,480"/>
+<area shape="rect" id="node9" href="$odp__api_8h.html" title=" " alt="" coords="107,603,192,629"/>
+<area shape="rect" id="node11" href="$api_2spec_2traffic__mngr_8h.html" title=" " alt="" coords="237,304,349,331"/>
+<area shape="rect" id="node6" href="$api_2classification_8h.html" title=" " alt="" coords="43,379,162,405"/>
+<area shape="rect" id="node8" href="$api_2ipsec_8h.html" title=" " alt="" coords="158,528,226,555"/>
+<area shape="rect" id="node10" href="$odp_8h.html" title=" " alt="" coords="120,677,179,704"/>
+<area shape="rect" id="node12" href="$api_2traffic__mngr_8h.html" title=" " alt="" coords="237,379,349,405"/>
+</map>
